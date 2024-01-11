@@ -2,6 +2,10 @@
 
 <img src="https://github.com/niteshchandrakar/assignment/blob/main/public/1704831693691.png" height="100" width="180">
 
+### Deployed link
+
+[https://quiet-unicorn-1e843d.netlify.app/]
+
 ### Working fine with date filter
 
 <img src="https://github.com/niteshchandrakar/assignment/blob/main/public/Screenshot%20(493).png" >
