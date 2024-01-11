@@ -1,5 +1,6 @@
-#Peter Surgical
-<img src="1.png" height="100" width="180">
+### Peter Surgical
+
+<img src="https://github.com/niteshchandrakar/assignment/blob/main/public/1704831693691.png" height="100" width="180">
 
 # Getting Started with Create React App
 
