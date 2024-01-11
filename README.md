@@ -2,6 +2,18 @@
 
 <img src="https://github.com/niteshchandrakar/assignment/blob/main/public/1704831693691.png" height="100" width="180">
 
+### Working fine with date filter
+
+<img src="https://github.com/niteshchandrakar/assignment/blob/main/public/Screenshot%20(493).png" >
+
+### Pie Chart and Supplier details
+
+<img src="https://github.com/niteshchandrakar/assignment/blob/main/public/Screenshot%20(494).png" >
+
+### Responsiveness
+
+<img src="https://github.com/niteshchandrakar/assignment/blob/main/public/Screenshot%20(495).png" >
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
