@@ -1,3 +1,6 @@
+#Peter Surgical
+<img src="1.png" height="100" width="180">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
