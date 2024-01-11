@@ -29,7 +29,7 @@ const PieGraph = () => {
     files[0].Supplier,
     files[1].Supplier,
     files[4].Supplier, 
-    files[6].Supplier,
+    
   
 
     
